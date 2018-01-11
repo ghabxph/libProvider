@@ -1,6 +1,6 @@
 # libProvider v0.1
 
-See changelog: 
+[See Changelog](https://github.com/ghabxph/libProvider/blob/master/changelog.md)
 
 libProvider is a very simple class provider that automatically injects dependency of any class for any project.
 The trick is possible through PHP's Reflection Class.
